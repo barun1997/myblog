@@ -1,58 +1,51 @@
 ---
-title: "I loathed me"
-date: 2019-03-18T02:01:58+05:30
-description: "A poem I wrote while I was travelling from Pokhara to Kathmandu"
-tags: [Poem]
+title: "I have always flinched"
+date: 2020-04-18T02:01:58+05:30
+description: "How it's easy to hestitate"
+tags: [Entrepreneurship]
 ---
 
-I saw her in midst of a crowd
-She smiled at me, I smiled back, For there was something unusual about the smile.
-No one smiled at me before, No one even cared,
-I was my mother’s worst- cooked food,
-My father — he was a disappointed dude.
-But today, she smiled again, I smiled back, For I didn’t know what else a man can really do,
-I see a smile, and I return back the favor, She smiled again, but this time her effort
-was more apparent, She wanted something ; but finding it out was above my intellect,
+Hi,
 
-To her dismay, I smiled back again, Don’t Smile!
+When The Social Network released in 2010, it was all-set-match for me. I have never become more impressed with a story, and I wanted what Mark Zuckerberg in the story had. The freedom, the ability to build something you’d call your creation and the entire story.
 
-Do something I cry to myself,
-While she was visibly distorted, probably wondered what this ugly man was up to,
-I stood still, waiting for her in the corner of the assembly ,
-“Don’t you get a hint?” She said to me with a scorn, “I do. When I see a smile, I smile back”. I say with one part of my heart torn.
+Later came Silicon Valley, the series, and the awkward fumbling entrepreneur who wanted to build his legacy. I somehow resonated with Richard Hendricks more. I was shy, introvert, with zero self-confidence, and I had these anxiety attacks that would crumble me whenever I had to face up to someone. But, Richard constantly overcame that. He had to. He put his product above anything.
 
-See, it wasn’t arrogance from my side, it was just what I was taught,
-Right from the childhood , the only smile I got was from my mother and a smile back really worked
+That’s what I have always been after. A perfect product. Something that would be my baby. I would nurture it, pitch it to potential team members, perhaps even get some investors, and build my legacy. That’s what I have always wanted, and that’s what I’ve always been after.
 
-Today though, it was different,
-a girl wanted more from me, and suddenly minutes turned to hours,
-We talked, we giggled, it looked like someone finally enjoyed my company,
-I was newbie, I fumbled, I awkwardly shook hands, talked to her perhaps a little drunkenly,
-I didn’t know anything for what I needed to do, but I knew I had to keep her by my side with all my powers,
-A guy who got nothing in life had to keep a fairy without all odds at the top of his tower,
-But alas, there was something fundamentally wrong about it,
-For a fairy girl like her never suited a guy like me,
-Karma it says never lets it happen,
-Neither it was really a South Indian Movie,
-Destiny is always right, I feared it but I had to be an exception ,
-So I grabbed her and held her tight, I worked my ass off and calculate d every possible permutation,
-But you know, I wasn’t a macho , and nor I had any charm,
-The strength just got me nowhere and it wasn’t Even July when it was all gone without even an alarm.
-She wanted me, she probably needed me,
-But little did she know I loathed myself,
-We were black and white, sugar and salt, Me a Shrek and she perhaps Princess Leia,
-Her face reflected of a barbie doll, while I looked like a patient suffering from Gonorrhea
+However, it’s easy to say I want it. The real question is — am I willing to actually be precarious and still go after it? For the stuff I want?
 
-She had a million choices,
-One so smart who could solve the String Theory, The other was dull but he could lift a tree, While I couldn’t even keep hold of my key.
-Talking about keys, I was lost in her, never finding a door to the way out,
-She was all I wanted, and irony is she was all I couldn’t get
-To my surprise, a few other fairies did give me a second chance to life,
-But ignorant I was, i never saw the bloom in the dark shadows; They gave me time, they gave me love, isn’t that all a person needs? But no.
-That was all too overwhelming, Too much attention for my liking I felt.
+When we started Dailo, we were four friends who were part-time students with no expectations from us. We could do everything and yet risk almost nothing.
 
-With time, no one really waited, nor I really
-ever gave them a chance,
-While I waited for her in the same crowd with a hope for another dance,
-But at the end, such is the misery of life,
-The others weren’t here, nor was she All I had was I, but I loathed me
+In some ways, that’s what made it easy for us. Yes, you could say we risked our academic performance, yet at the grand scale of things, it meant nothing.
+
+But upon graduation, the tectonic plates somehow shift. It won’t be the end of the world, and still, the risk factor increases substantially.
+
+It’s not a question of what I want, anymore. It’s a question of what I’m willing to give up for the things I want to achieve?
+
+Am I willing to give up the core of my 20s on a startup with no real experience in the field — in hopes that I will learn it as I move forward? Or am I willing to let go off my dreams and postpone it for a while, to get that experience working on a tech company? Push it further, and should I let go everything I had in my mind for the past three years and pursue education abroad?
+
+You see, there’s no real answer to the question. People will try to convince you otherwise. They will tell you — it’s stupid to start a business when you have no experience at all. Or they will say to you- it’s not worth it to go abroad and spend thousands of dollars on studying something you can read off books. But it’s not their fault.
+
+And it is not your fault either.
+
+It’s a problematic conundrum everyone has to deal with, once in a while. Perhaps, one of the best decisions you could make is by knowing yourself and figure out things on the very fact that why it’s such an arduous decision to make for you.
+
+Are you too scared to pursue an entrepreneurial venture because it puts you out of your comfort zone? Or do you have difficulty pursuing studies abroad because you fear you’ll be home-sick?
+
+Because these questions ultimately give you the fundamental root of your problem. Home-sickness isn’t a huge deal, and you can overcome it. Leading up front, and getting out of your comfort zone isn’t one either. They are mere flinches.
+
+But, the question of whether you want to go through the hours of uncertainty that entrepreneurship brings and the insane working hours is a reckoning one. Or perhaps, if you are uncertain of going through 2 years of college education abroad, and giving up on some family time, it’s a decision you should not make.
+
+You can take as many perspectives as you want. Or ponder the question time and again with as many people. But only you know the answer.
+It’s how the world works. There will be hundreds of stories you will hear about how a simple decision changed their life. Stories about how they were clueless, with no purpose in life and went abroad, bringing in a crucial shift in their mindset. Or you could hear a story about how they gave up everything and risked it on an entrepreneurial venture and succeeded despite all the challenges.
+
+But it’s also easy to forget that their decision best-suited them. And they sacrificed everything else but their ultimate goal because they wanted it the most. They saw it as the only thing that shone a light in their life.
+
+Meanwhile, as fate has it, I have to answer the same question soon. Am I willing to do it? I don’t know.
+
+But I will figure it out, eventually. After all, only I know the answer to that question.
+
+Best regards,
+
+Thoughts of a guy who just finished his under-graduate classes.

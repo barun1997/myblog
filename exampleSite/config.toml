@@ -14,7 +14,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "barunpandey"
 
 [params]
-	subtitle = "Hi! I am Barun. I am learning to code, learning to write and learning everything basically. "
+	subtitle = "An Engineer writing a few words "
 
 	# Optional 64x64 avatar image.
 	avatar = "https://scontent.fktm10-1.fna.fbcdn.net/v/t1.0-9/s960x960/78613150_562563537916702_2800168585064873984_o.jpg"
