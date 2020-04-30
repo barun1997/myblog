@@ -17,7 +17,7 @@ disqusShortname = "barunpandey"
 	subtitle = "An Engineer writing a few words "
 
 	# Optional 64x64 avatar image.
-	avatar = "images/barun.JPG"
+	avatar = "/images/barun.JPG"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
