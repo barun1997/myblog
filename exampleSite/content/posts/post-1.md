@@ -1,62 +1,58 @@
 ---
-title: "Primer: When You Have Too Much to Do"
-date: 2018-03-18T02:01:58+05:30
-description: "You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more."
-tags: [Primer, todo]
+title: "I loathed me"
+date: 2019-03-18T02:01:58+05:30
+description: "A poem I wrote while I was travelling from Pokhara to Kathmandu"
+tags: [Poem]
 ---
 
-You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
+I saw her in midst of a crowd
+She smiled at me, I smiled back, For there was something unusual about the smile.
+No one smiled at me before, No one even cared,
+I was my mother’s worst- cooked food,
+My father — he was a disappointed dude.
+But today, she smiled again, I smiled back, For I didn’t know what else a man can really do,
+I see a smile, and I return back the favor, She smiled again, but this time her effort
+was more apparent, She wanted something ; but finding it out was above my intellect,
 
-It all keeps piling up, and it can feel overwhelming.
+To her dismay, I smiled back again, Don’t Smile!
 
-How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?
+Do something I cry to myself,
+While she was visibly distorted, probably wondered what this ugly man was up to,
+I stood still, waiting for her in the corner of the assembly ,
+“Don’t you get a hint?” She said to me with a scorn, “I do. When I see a smile, I smile back”. I say with one part of my heart torn.
 
-In this primer, I’ll look at some key strategies and tactics for taking on an overloaded life with an open heart, lots of energy, and a smile on your face.
+See, it wasn’t arrogance from my side, it was just what I was taught,
+Right from the childhood , the only smile I got was from my mother and a smile back really worked
 
-## The First Step: Triage
+Today though, it was different,
+a girl wanted more from me, and suddenly minutes turned to hours,
+We talked, we giggled, it looked like someone finally enjoyed my company,
+I was newbie, I fumbled, I awkwardly shook hands, talked to her perhaps a little drunkenly,
+I didn’t know anything for what I needed to do, but I knew I had to keep her by my side with all my powers,
+A guy who got nothing in life had to keep a fairy without all odds at the top of his tower,
+But alas, there was something fundamentally wrong about it,
+For a fairy girl like her never suited a guy like me,
+Karma it says never lets it happen,
+Neither it was really a South Indian Movie,
+Destiny is always right, I feared it but I had to be an exception ,
+So I grabbed her and held her tight, I worked my ass off and calculate d every possible permutation,
+But you know, I wasn’t a macho , and nor I had any charm,
+The strength just got me nowhere and it wasn’t Even July when it was all gone without even an alarm.
+She wanted me, she probably needed me,
+But little did she know I loathed myself,
+We were black and white, sugar and salt, Me a Shrek and she perhaps Princess Leia,
+Her face reflected of a barbie doll, while I looked like a patient suffering from Gonorrhea
 
-Whether you’re just starting your day, or you’re in the middle of the chaos and just need to find some sanity … the first step is to get into triage mode.
+She had a million choices,
+One so smart who could solve the String Theory, The other was dull but he could lift a tree, While I couldn’t even keep hold of my key.
+Talking about keys, I was lost in her, never finding a door to the way out,
+She was all I wanted, and irony is she was all I couldn’t get
+To my surprise, a few other fairies did give me a second chance to life,
+But ignorant I was, i never saw the bloom in the dark shadows; They gave me time, they gave me love, isn’t that all a person needs? But no.
+That was all too overwhelming, Too much attention for my liking I felt.
 
-Triage, as you probably know, is sorting through the chaos to prioritize: what needs to be done now, what needs to be done today, what needs to be done this week, and what can wait? You’re looking at urgency, but also what’s meaningful and important.
-
-Here’s what you might do:
-
-* Pick out the things that need to be done today. Start a Short List for things you’re going to do today. That might be important tasks for big projects, urgent tasks that could result in damage if you don’t act, smaller admin tasks that you really should take care of today, and responding to important messages. I would recommend being ruthless and cutting out as much as you can, having just 5 things on your plate if that’s at all possible. Not everything needs to be done today, and not every email needs to be responded to.
-* Push some things to tomorrow and the rest of the week. If you have deadlines that can be pushed back (or renegotiated), do that. Spread the work out over the week, even into next week. What needs to be done tomorrow? What can wait a day or two longer?
-* Eliminate what you can. That might mean just not replying to some messages that aren’t that important and don’t really require a reply. It might mean telling some people that you can’t take on this project after all, or that you need to get out of the commitment that you said you’d do. Yes, this is uncomfortable. For now, just put them on a list called, “To Not Do,” and plan to figure out how to get out of them later.
-
-OK, you have some breathing room and a manageable list now! Let’s shrink that down even further and just pick one thing.
-
-## Next: Focus on One Thing
-
-With a lot on your plate, it’s hard to pick one thing to focus on. But that’s exactly what I’m going to ask you to do.
-
-Pick one thing, and give it your focus. Yes, there are a lot of other things you can focus on. Yes, they’re stressing you out and making it hard to focus. But think about it this way: if you allow it all to be in your head all the time, that will always be your mode of being. You’ll always be thinking about everything, stressing out about it all, with a frazzled mind … unless you start shifting.
-
-The shift:
-
-* Pick something to focus on. Look at the triaged list from the first section … if you have 5-6 things on this Short List, you can assess whether there’s any super urgent, time-sensitive things you need to take care of. If there are, pick one of them. If not, pick the most important one — probably the one you have been putting off doing.
-* Clear everything else away. Just for a little bit. Close all browser tabs, turn off notifications, close open applications, put your phone away.
-* Put that one task before you, and allow yourself to be with it completely. Pour yourself into it. Think of it as a practice, of letting go (of everything else), of focus, of radical simplicity.
-
-When you’re done (or after 15-20 minutes have gone by at least), you can switch to something else. But don’t allow yourself to switch until then.
-
-By closing off all exits, by choosing one thing, by giving yourself completely to that thing … you’re now in a different mode that isn’t so stressful or spread thin. You’ve started a shift that will lead to focus and sanity.
-
-## Third: Schedule Time to Simplify
-
-Remember the To Not Do list above? Schedule some time this week to start reducing your projects, saying no to people, getting out of commitments, crossing stuff off your task list … so that you can have some sanity back.
-
-There are lots of little things that you’ve said “yes” to that you probably shouldn’t have. That’s why you’re overloaded. Protect your more important work, and your time off, and your peace of mind, by saying “no” to things that aren’t as important.
-
-Schedule the time to simplify — you don’t have to do it today, but sometime soon — and you can then not have to worry about the things on your To Not Do list until then.
-
-## Fourth: Practice Mindful Focus
-
-Go through the rest of the day with an attitude of “mindful focus.” That means that you are doing one thing at a time, being as present as you can, switching as little as you can.
-
-Think of it as a settling of the mind. A new mode of being. A mindfulness practice (which means you won’t be perfect at it).
-
-As you practice mindful focus, you’ll learn to practice doing things with an open heart, with curiosity and gratitude, and even joy. Try these one at a time as you get to do each task on your Short List.
-
-You’ll find that you’re not so overloaded, but that each task is just perfect for that moment. And that’s a completely new relationship with the work that you do, and a new relationship with life.
+With time, no one really waited, nor I really
+ever gave them a chance,
+While I waited for her in the same crowd with a hope for another dance,
+But at the end, such is the misery of life,
+The others weren’t here, nor was she All I had was I, but I loathed me
