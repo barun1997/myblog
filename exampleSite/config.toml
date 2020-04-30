@@ -1,6 +1,6 @@
-baseURL = "http://barunpandey.com"
+baseURL = "https://barunpandey.com"
 languageCode = "en-us"
-title = "Ink"
+title = "Barun Pandey"
 theme = "ink"
 paginate = 5
 
@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-123-45"
-disqusShortname = "ink-demo"
+disqusShortname = "barunpandey"
 
 [params]
 	subtitle = "Hi! I am Barun. I am learning to code, learning to write and learning everything basically. "
