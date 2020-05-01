@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "What motivates me?"
 date: 2017-03-18T02:01:58+05:30
-description: "How it's easy to hestitate"
+description: "What are my priorities?"
 tags: [Entrepreneurship]
 ---
 
