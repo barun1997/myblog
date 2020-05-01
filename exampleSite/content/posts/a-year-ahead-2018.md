@@ -8,12 +8,14 @@ tags: [Notes]
 # Every year, I make these extravagant resolutions I never fulfill anyway. 
 
  Last year, my new year resolution mainly revolved around three things: 
- * I wanted to switch back to who I was before - back to an introvert and dial down a bit on social media. 
- * Do more stuff that actually mattered.
- * Read more, and probably write more.
- * Be fitter
+ 
+* I wanted to switch back to who I was before - back to an introvert and dial down a bit on social media. 
+* Do more stuff that actually mattered.
+* Read more, and probably write more.
+* Be fitter
  
 I have to say - I was miserable in my scorecard for 2017. For all I know,  I hope to have a lot better score upcoming year. At least, I've a bad benchmark for starters - it can only be upwards and onwards from here! This year, I will try broil down my resolutions to simple achievable footsteps too. In 2018, I want to: 
+
 * Try eating more healthy. (Gradually!)
 * Read a lot more. (Hopefully, a book every week)
 * Code a lot lot lot more! ( :( )
