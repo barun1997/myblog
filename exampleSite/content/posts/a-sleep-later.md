@@ -15,7 +15,13 @@ Someone certainly didn't want me to have any access to the outside world. No mat
 
 I was a 25-year-old jobless *something after all. What's with the 'something'? Why can't I remember anything! 
 
-I'm pretty sure it wasn't any thing related to medical though. The wound right besides my arm still excruciates me. Enough of talking. I need to find the inner Sherlock in me now. Who needs Watson anyway? There was a time when I really loved the Holmes books. Profiling people was the best fun-time ever; all I lacked was the charisma and tenacity to really pull it off. But who knew five years and a missing day later, I will finally need it. I surfed around the house, to look for some clues. I'm deeply wrapped with clothes, and for some reason, I can't take off the gloves in my hands either. Some one really wanted to strangle me, or maybe, was worried about my cold problems. For some reason, my legs don't support me like it used to. Maybe it was that thing they put on my takeaway coffee. The first thing I will do after I feel well is sue them. Coming to suing, there's nothing around that really gives me any clue. Perhaps, there's something on the kitchen? It smells good. 
+I'm pretty sure it wasn't any thing related to medical though. The wound right besides my arm still excruciates me. Enough of talking. I need to find the inner Sherlock in me now. 
+
+Who needs Watson anyway? There was a time when I really loved the Holmes books. Profiling people was the best fun-time ever; all I lacked was the charisma and tenacity to really pull it off. But who knew five years and a missing day later, I will finally need it. 
+
+I surfed around the house, to look for some clues. I'm deeply wrapped with clothes, and for some reason, I can't take off the gloves in my hands either. Some one really wanted to strangle me, or maybe, was worried about my cold problems. 
+
+For some reason, my legs don't support me like it used to. Maybe it was that thing they put on my takeaway coffee. The first thing I will do after I feel well is sue them. Coming to suing, there's nothing around that really gives me any clue. Perhaps, there's something on the kitchen? It smells good. 
 
 Someone was here just a few hours ago, for sure. But why leave me unrestrained? I could easily leave right now if it weren't for my weakness. But maybe it was their plan all along. I bet they're watching from a CCTV camera somewhere, enjoying me struggle to put any thoughts. People are so feeble these days. They'd do anything for fun. 
 
