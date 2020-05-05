@@ -7,10 +7,10 @@ type: "page"
 I have established a habit of reading books lately, and I just wanted to maintain a list of books I've read. I'll sort it by category later on, but for now, I will just list them out. 
 
 
-## Completed 
+# Completed 
 
 
-# 2020 
+## 2020 
 
 * The Hard Thing About Hard Things
 * Blitzscaling 
@@ -20,7 +20,7 @@ I have established a habit of reading books lately, and I just wanted to maintai
 * Sapiens 
 * The Great Mental Models 
 
-# Currently Reading 
+## Currently Reading 
 * The Lean Startup
 * The Messy Middle 
 * Thinking Fast and Slow 
@@ -30,7 +30,7 @@ I have established a habit of reading books lately, and I just wanted to maintai
 * How to Lie with Statistics
 * Blue Ocean Strategy
 
-# Books in my shelf but have not even started
+## Books in my shelf but have not even started
 
 * A Song of Ice and Fire  (the entire series)
 * Dale Carnegie Book Collections 
@@ -44,7 +44,7 @@ The currently reading list has a lot of books, because I've found myself enjoyin
 
 However, I think I have to make sure the list doesn't get any more longer. I will probably build a virtual stack for myself, where the maximum length is 5 or 6.
 
-# I don't know when I read them list 
+## I don't know when I read them list 
 
 * Made To Stick
 * Extreme Ownership 
