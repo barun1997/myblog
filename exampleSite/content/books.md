@@ -38,6 +38,8 @@ I have established a habit of reading books lately, and I just wanted to maintai
 * The Godfather 
 * The Intelligent Investor 
 * The Personal MBA 
+* Switch 
+* The Art of War
 
 
 The currently reading list has a lot of books, because I've found myself enjoying different books depending on what mood I am in that day. The simple switch in the habit has helped me maintain my attention span far more, so I think I'm going to stick with that for a while. 
