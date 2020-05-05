@@ -28,6 +28,17 @@ I have established a habit of reading books lately, and I just wanted to maintai
 * Strategy Beyond The Hockey Stick 
 * Hooked 
 * How to Lie with Statistics
+* Blue Ocean Strategy
+
+# Books in my shelf but have not even started
+
+* A Song of Ice and Fire  (the entire series)
+* Dale Carnegie Book Collections 
+* This is Marketing 
+* The Godfather 
+* The Intelligent Investor 
+* The Personal MBA 
+
 
 The currently reading list has a lot of books, because I've found myself enjoying different books depending on what mood I am in that day. The simple switch in the habit has helped me maintain my attention span far more, so I think I'm going to stick with that for a while. 
 
@@ -39,8 +50,14 @@ However, I think I have to make sure the list doesn't get any more longer. I wil
 * Extreme Ownership 
 * David and Goliath 
 * Rich Dad Poor Dad 
+* Inner Engineering
+* The Power Of Now 
 * The Perks of Being a Wallflower (By far, one of the most influential books when I was growing up or maybe because one of the few books I read while I was actually growing up!)
 * Palpasa Cafe 
+* Dear John
+* Talking to Strangers 
+* Outliers 
+* A walk to remember 
 * The Subtle Art of Giving a Fuck
 * The Flinch 
 * To Sell Is Human 
