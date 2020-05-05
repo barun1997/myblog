@@ -20,32 +20,6 @@ I have established a habit of reading books lately, and I just wanted to maintai
 * Sapiens 
 * The Great Mental Models 
 
-## Currently Reading 
-* The Lean Startup
-* The Messy Middle 
-* Thinking Fast and Slow 
-* Freakonomics 
-* Strategy Beyond The Hockey Stick 
-* Hooked 
-* How to Lie with Statistics
-* Blue Ocean Strategy
-
-## Books in my shelf but have not even started
-
-* A Song of Ice and Fire  (the entire series)
-* Dale Carnegie Book Collections 
-* This is Marketing 
-* The Godfather 
-* The Intelligent Investor 
-* The Personal MBA 
-* Switch 
-* The Art of War
-
-
-The currently reading list has a lot of books, because I've found myself enjoying different books depending on what mood I am in that day. The simple switch in the habit has helped me maintain my attention span far more, so I think I'm going to stick with that for a while. 
-
-However, I think I have to make sure the list doesn't get any more longer. I will probably build a virtual stack for myself, where the maximum length is 5 or 6.
-
 ## I don't know when I read them list 
 
 * Made To Stick
@@ -74,3 +48,33 @@ However, I think I have to make sure the list doesn't get any more longer. I wil
 * The Three Mistakes of My Life (it was one of my first books, so spare me some judgement on this one.)
 
 The list excludes course books as well as programming books I've read. 
+
+# Reading/To-Read
+
+## Currently Reading 
+* The Lean Startup
+* The Messy Middle 
+* Thinking Fast and Slow 
+* Freakonomics 
+* Strategy Beyond The Hockey Stick 
+* Hooked 
+* How to Lie with Statistics
+* Blue Ocean Strategy
+
+## Books in my shelf but have not even started
+
+* A Song of Ice and Fire  (the entire series)
+* Dale Carnegie Book Collections 
+* This is Marketing 
+* The Godfather 
+* The Intelligent Investor 
+* The Personal MBA 
+* Switch 
+* The Art of War
+
+
+The currently reading list has a lot of books, because I've found myself enjoying different books depending on what mood I am in that day. The simple switch in the habit has helped me maintain my attention span far more, so I think I'm going to stick with that for a while. 
+
+However, I think I have to make sure the list doesn't get any more longer. I will probably build a virtual stack for myself, where the maximum length is 5 or 6.
+
+
