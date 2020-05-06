@@ -19,6 +19,7 @@ I have established a habit of reading books lately, and I just wanted to maintai
 * The Great Gatsby 
 * Sapiens 
 * The Great Mental Models 
+* How to lie with Statistics 
 
 ## I don't know when I read them list 
 
@@ -58,7 +59,6 @@ The list excludes course books as well as programming books I've read.
 * Freakonomics 
 * Strategy Beyond The Hockey Stick 
 * Hooked 
-* How to Lie with Statistics
 * Blue Ocean Strategy
 
 ## Books in my shelf but have not even started
