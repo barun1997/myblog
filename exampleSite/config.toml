@@ -50,15 +50,16 @@ name = "Tags"
 url = "/tags"
 weight = 4
 
-[[menu.main]]
-name = "Books"
-url = "/books"
-weight = 5
 
 [[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/barun1997"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/barunpandey1997"
 
 [[params.social]]
 name = "RSS"
