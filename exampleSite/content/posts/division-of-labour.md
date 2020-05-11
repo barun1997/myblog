@@ -1,5 +1,5 @@
 ---
-title: "Divison of Labour"
+title: "Division of Labour"
 date: 2020-05-11T06:01:58+05:31
 description: "My notes on the principles of division of labour, and money."
 tags: [Reading Notes]
