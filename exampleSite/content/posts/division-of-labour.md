@@ -35,6 +35,10 @@ Metals, were therefore, found to be used historically, since they can be easily 
 
 The confidence sometimes, was taken for granted by the Royals and the huge empires. They used deception to manipulate the trust the citizens put in them, in order to 'pay off their debts'. What they did was decrease the quantity of the metals in their coins, thus producing more coins with the same amount of metal at their disposal. In this way, they wrote off their debts, when in effect, all they did was fraud their creditors. I am fascinated by the case, because in such instances, it's always found that the creditors are the ones who face the wrath, while all the debitors pay off their old loans with the new inflated standards. For instance, when I lend my money to my friend for a 20% interest, and the annual inflation comes to be 50%, my friend will pay me the same amount, except the amount is greatly devalued now. Such a case, when it's natural course of the greater economy is a risk I must take, but when it's a fraud, it's something to reckon about.
 
+However, this simple concept, of the division of labour, of the exchange of labour between people explains the key fundamentals of human economy. In fact, as Adam Smith puts, ** labour is the real measure of the exchangeable value of all commodities. **
+
+To be continued.
+
 ---
 
 Hi, for all expert economist around there, sorry if anything I've written is conceptually wrong. In fact, one of the reasons why I have written the note is to find whether my concepts are clear. So please leave me some feedbacks so I can really think in retrospect, and improve my concept on the topic.
