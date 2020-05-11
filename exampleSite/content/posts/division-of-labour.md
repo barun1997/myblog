@@ -19,7 +19,7 @@ However, it's important to note, that division of labour by itself, is limited b
 
 Take the example of the cook again. In a rural village, when the market of the cook is so small, even if the cook is proficient at what he does, there just aren't enough people who are in need of his produces, so he can exchange it for his other necessities. Therefore, he must also focus on several other aspects of his life to sustain himself, thus should be a generalist in order to subsist. However, if he was in a town like Kathmandu, he'll find enough people who require his expertise in cooking, thus, enabling him to exchange his surplus food for other requirements he has.
 
-In this way, bigger the market, more people within it can afford to dexterize in their trades. This is why mch of the early civilization fostered around the places where water navigation was possible. Water navigation, through boats and ships, is cheaper to land navigation, thus expanding the broad market size which results to more exchanges.
+In this way, bigger the market, more people within it can afford to excel in their trades. This is why much of the early civilization fostered around the places where water navigation was possible. Water navigation, through boats and ships, is cheaper to land navigation, thus expanding the broad market size which results to more exchanges.
 
 The dexterity in itself, is influenced by the nature we grow up in, it's not something that comes from birth. A person born in a well-educated family is likely to become more educated, while a labourer's child is likely to learn his trades.
 
