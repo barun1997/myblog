@@ -41,6 +41,6 @@ To be continued.
 
 ---
 
-Hi, for all expert economist around there, sorry if anything I've written is conceptually wrong. In fact, one of the reasons why I have written the note is to find whether my concepts are clear. So please leave me some feedbacks so I can really think in retrospect, and improve my concept on the topic.
+Hi, for all the expert economists there, sorry if anything I've written is conceptually wrong. In fact, one of the reasons why I have written the note is to find whether my concepts are clear. So please leave me some feedbacks so I can really think in retrospect, and improve my concept on the topic.
 
 All credit for the concepts within the article to The Wealth Of Nations by Adam Smith, I've attempted to read the book for quite a while, so these notes are a sort of a quick overview of the topic in order to really help me think through the concepts provided within the book.
