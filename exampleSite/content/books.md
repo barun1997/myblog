@@ -19,6 +19,8 @@ I have established a habit of reading books lately, and I just wanted to maintai
 - Sapiens
 - The Great Mental Models
 - How to lie with Statistics
+- Strategy beyond the Hockey Stick
+- Start with Why
 
 ## I don't know when I read them list
 
@@ -56,9 +58,11 @@ The list excludes course books as well as programming books I've read.
 - The Messy Middle
 - Thinking Fast and Slow
 - Freakonomics
-- Strategy Beyond The Hockey Stick
 - Hooked
 - Blue Ocean Strategy
+- The Rational Optimist
+- The Wealth of Nations (I am not sure if I can complete it in a year)
+- The Art of Logical Thinking
 
 ## Books in my shelf but have not even started
 
