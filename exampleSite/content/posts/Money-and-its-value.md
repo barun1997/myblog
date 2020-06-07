@@ -5,7 +5,7 @@ description: "Part 2 of my notes on Labour and money"
 tags: [Reading Notes]
 ---
 
-** Labour is the real measure of the exchangeable value of all commodities. **
+### Labour is the real measure of the exchangeable value of all commodities.
 
 The simple definition consists of immense amount of knowledge in figuring out how the world works, and how we exchange favours with each other to live our daily life.
 
@@ -19,7 +19,7 @@ More food offers room for people to focus on other traits of human life, than th
 
 However, when the supply becomes tight, fewer people are willing to give up on their food and they offer it to their own families neglecting other aspects of their needs (you don't care about toothpaste when you don't have enough food). The result, as Matt writes, is - people are bound to become more self-sufficient, while exchange takes a toil. More and more human labour is focused on growing food, and handling for the maintainence of their lives, resulting to a decline in economic growth.
 
-In the previous blog post, I discussed how our society has a natural tendency for division of labour, and how it has helped us hone specific traits. Since, we are all so dependent on each other to solve different aspects of our life, we are defined rich or poor as per our ability to command, or purchase these labours.
+In [the previous blog post](https://www.barunpandey.com/posts/division-of-labour/), I discussed how our society has a natural tendency for division of labour, and how it has helped us hone specific traits. Since, we are all so dependent on each other to solve different aspects of our life, we are defined rich or poor as per our ability to command, or purchase these labours.
 
 For any commodity I have, it's value is equal to the quantity of labour it enables me to purchase of command. For example, what use is a Tola of Gold, if it doesn't enable me to purchase clothes? Those clothes are a production of labour from humans, perhaps in one region of China, with aide from automated machines built by humans in another region within China itself.
 
