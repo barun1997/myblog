@@ -15,7 +15,7 @@ In fact, as Matt Ridley writes in his book, The Rational Optimist, the inter-dep
 
 But what helps catalyse such an inter-dependency? For the most part of our history, large human civilizations have only been able to sustain themselves around fertile lands. When lands are fertile, be it besides the Nile or the fertile lands in Asia, abundance of food fueled the much coveted interdependency among civilization of human beings.
 
-More food offers room for people to focus on other traits of human life, than their own subsistence, while others produce food for the consumption of others rather than their own. As such, further growth in division of labour ensues leading to increase in productivity.
+More food offers room for people to focus on other traits of human life, than their own subsistence, while others produce food for the common consumption rather than their own. As such, further growth in division of labour ensues leading to increase in productivity.
 
 However, when the supply becomes tight, fewer people are willing to give up on their food and they offer it to their own families neglecting other aspects of their needs (you don't care about toothpaste when you don't have enough food). The result, as Matt writes, is - people are bound to become more self-sufficient, while exchange takes a toil. More and more human labour is focused on growing food, and handling for the maintainence of their lives, resulting to a decline in economic growth.
 
