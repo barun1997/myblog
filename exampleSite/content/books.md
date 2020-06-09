@@ -21,6 +21,7 @@ I have established a habit of reading books lately, and I just wanted to maintai
 - How to lie with Statistics
 - Strategy beyond the Hockey Stick
 - Start with Why
+- The Rational Optimist
 
 ## I don't know when I read them list
 
@@ -60,7 +61,6 @@ The list excludes course books as well as programming books I've read.
 - Freakonomics
 - Hooked
 - Blue Ocean Strategy
-- The Rational Optimist
 - The Wealth of Nations (I am not sure if I can complete it in a year)
 - The Art of Logical Thinking
 
